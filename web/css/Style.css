@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+div {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+p {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+span {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+a {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+input {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+textarea {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+select {
+    font-size: 12px;
+    font-family: "microsoft yahei ui", serif
+}
+
+table {
+    border-collapse: collapse
+}
+
+a:link {
+    color: #0055bb;
+    text-decoration: none
+}
+
+a:visited {
+    color: #0077bb;
+    text-decoration: none
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline
+}
+
+.hidden {
+    display: none
+}
+
+.display {
+    display: block
+}
+
+.textbox {
+    color: #333333;
+    border: 1px solid #cccccc;
+    height: 17px;
+    background-color: #fdfdfd
+}
+
+.textarea {
+    color: #333333;
+    border: 1px solid #cccccc;
+    background-color: #fdfdfd
+}
+
+.button {
+    color: #000000;
+    padding-top: 2px;
+    border: 1px solid #f4f4f4;
+    border-right-color: #888888;
+    border-bottom-color: #888888;
+}
+
+.fileupload {
+    font-size: 12px;
+    color: #333333;
+    border: 1px solid #999999;
+    border-right-color: #eeeeee;
+    border-bottom-color: #eeeeee;
+}
+
+.redinfo {
+    color: #ff0000
+}
